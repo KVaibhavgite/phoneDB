@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="this_is_a_modal_bottomsheet">This is a Modal BottomSheet</string>
+    <string name="share_this_algorithm">Share this Algorithm</string>
+    <string name="share_this_course">Share this Course</string>
+    <string name="this_is_a_modal_bottom_sheet">This is a Modal BottomSheet</string>
+    <string name="share_this_algorithm1">Share this Algorithm</string>
+    <string name="share_this_course1">Share this Course</string>
+</resources>
